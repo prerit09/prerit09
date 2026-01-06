@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I’m a DevOps Engineer
 
-<!--
-**prerit09/prerit09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’ve been working in DevOps since **2018**, helping teams design, automate and operate **scalable, reliable cloud infrastructure** across **AWS and Azure**.
 
-Here are some ideas to get you started:
+I enjoy building systems from the ground up in **startup environments**, where speed, simplicity and reliability matter more than buzzwords.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Work With
+- ☁️ **Cloud:** AWS, Azure (multi-cloud)
+- 🏗️ **Infrastructure as Code:** Terraform, CloudFormation
+- 📦 **Containers & Orchestration:** Docker, Kubernetes, EKS, AKS
+- 🔁 **CI/CD:** GitHub Actions, GitLab CI, Jenkins
+- 📊 **Observability:** Prometheus, Grafana
+- 🧰 **Scripting:** Python, Bash
+
+### 🧠 How I Think
+- Automation over manual work
+- Simple systems over clever ones
+- Production-first mindset
+- Infrastructure should be reproducible, observable, and secure by default
+
+### 🌍 Outside of Work
+When I’m not building or breaking infrastructure, you’ll find me:
+- 💪 Training and staying fit
+- ✈️ Traveling and exploring new places
